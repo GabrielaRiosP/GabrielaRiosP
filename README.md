@@ -5,7 +5,7 @@
 🌱 Actualmente estoy capacitandome como Desarrollador FullStack JavaScript
 
 - 📫 Puedes contactarme 🌎
-  {Linkedin} (https://www.linkedin.com/in/gabriela-rios-p/)
+  [Linkedin](https://www.linkedin.com/in/gabriela-rios-p/)
 - 😄 Pronouns: Gabriela
 - ⚡ Fun fact: ...
 
